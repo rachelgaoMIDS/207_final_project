@@ -54,6 +54,8 @@ Notebooks from each member of the team
 
 ### 4.Inference
 Models used for inference & inference results
+- CNN1D model source: 3.Notebooks/RG/5.CNN1D/5b.8sec_4sec_overlap_with_embedding_continents_CNN1D.ipynb
+
 
 ### 5.Presentation
 - Baseline
