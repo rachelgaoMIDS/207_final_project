@@ -26,7 +26,7 @@ NOTE: ALL WORK WAS DONE IN SHARED GOOGLE DRIVE, THE RESULTS FROM THE NOTEBOOKS C
 
 ## Directories:
 
-### 0.Original_Data
+### 0.RAW_Data
 All data as provided by the Kaggle competition for the 3 species selected:
 - train_metadata.csv
 - eBird_Taxonomy_v2021.csv
