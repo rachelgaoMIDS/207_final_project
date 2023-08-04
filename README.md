@@ -5,8 +5,11 @@ BirdSong Sonatas
 
 ## Team members:
 Rachel Gao
+
 Amina Alavi
+
 Hamsini Sankaran
+
 Andrew Loeber
 
 ## Dataset:
