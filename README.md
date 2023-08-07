@@ -58,6 +58,7 @@ Models used for inference & inference results
 Inference results presented in final presentation:
 - CNN1D model source: 3.Notebooks/RG/5.CNN1D/5b.8sec_4sec_overlap_with_embedding_continents_CNN1D.ipynb
 - GRU-RNN model source: 3.Notebooks/HS/RNN/GRU/1.b.RNNGRU.ipynb
+- Vision Transformer source: 4.Inference/Vision_Transformer/ViT_8s_stft_inference.ipynb
 
 ### 5.Presentation
 - Baseline
