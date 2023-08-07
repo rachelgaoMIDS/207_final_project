@@ -47,6 +47,7 @@ The training data for the 3 species were split to train (70%) vs test (30%). All
   - The audio np objects are too large to fit into the repo, the two notebooks can be ran in colab to extract the audio np objects
 - metadata: train & test metadata for downstream tasks
 - train_preprocessing_&_EDA: preprocess training data and perform EDA
+  - Prepare Train_Val 8-sec Frames.ipynb: used for ViT's training and validation data preparation
 - test_preprocessing_&_EDA: preprocessing test data and perform minimal EDA
 
 ### 3.Notebooks
